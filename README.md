@@ -1,12 +1,9 @@
-[![MasterHead](https://i.gifer.com/a4U.gif)](https://i.gifer.com/a4U.gif)
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/a4U.gif"/><br/>
+<img align="right" alt="Coding" src="https://i.gifer.com/a4U.gif"/>
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antony-m1&label=Profile%20views&color=0e75b6&style=flat" alt="antony-m1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antony-m1" alt="antony-m1" /></a> </p>
 
 - 🔭 I’m currently working on [Supr CRAP](https://github.com/Antony-M1/super-crab)
 
@@ -19,6 +16,8 @@
 - 💬 Ask me about **ERPNext, Django, Flask, FastAPI, React, Docker**
 
 - 📫 How to reach me **antonykumar15898@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antony-m1" alt="antony-m1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
