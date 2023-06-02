@@ -1,4 +1,5 @@
 [![MasterHead](https://i.gifer.com/a4U.gif)](https://i.gifer.com/a4U.gif)
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/a4U.gif"/><br/>
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
