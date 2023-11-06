@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antony-m1&label=Profile%20views&color=0e75b6&style=flat" alt="antony-m1" /> </p>
 
-- 🔭 I’m currently working on [Shop Scoop](https://github.com/Antony-M1/shopscoop))
+- 🔭 I’m currently working on [Shop Scoop](https://github.com/Antony-M1/shopscoop)
 
 - 🌱 I’m currently learning **Scrapy, React JS**
 
